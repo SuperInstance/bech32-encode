@@ -1,6 +1,9 @@
 [package]
 name = "bech32-encode"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Bech32 Encode"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/bech32-encode"
+edition = "2021"
 
 [dependencies]
